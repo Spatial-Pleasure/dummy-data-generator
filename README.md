@@ -1,5 +1,8 @@
 # Dummy-data-generator Readme
 
+## ToDo :
+- [ ] 環境構築を行う
+
 ## setup
 
 ```bash
