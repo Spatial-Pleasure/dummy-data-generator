@@ -1,7 +1,7 @@
 # Dummy-data-generator Readme
 
 ## ToDo :
-- [ ] 環境構築を行う
+- [ ] 環境構築を行う requirementsのエラー対応を行う。
 
 ## setup
 
